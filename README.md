@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Nkorofi Makgato 👋
 
-<!--
-**nkorofimakgato-blip/nkorofimakgato-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer** · React · TypeScript · Tailwind CSS
+**CCNA Certified** · Studying at Tshwane University of Technology
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Portfolio
+
+[nkorofi-portfolio.vercel.app](https://YOUR-PORTFOLIO-URL.vercel.app)** — my personal site
+
+ Featured Projects
+
+[Clothing Store](https://github.com/nkorofimakgato-blip/clothing-store)** — React + TypeScript e-commerce storefront
+- [Live Demo](https://clothing-store-xi-gray.vercel.app)
+- Search, filters, cart with localStorage, multi-step checkout
+
+[Portfolio](https://github.com/nkorofimakgato-blip/portfolio)** — Personal site built with React + Tailwind CSS
+- [Live Demo](https://YOUR-PORTFOLIO-URL.vercel.app)
+
+---
+
+ Tech I Work With
+
+`React` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `HTML` · `CSS` · `Git` · `Vite`
+
+ Reach Me
+
+- Email:nkorofimakgato@gmail.com
+- LinkedIn: [nkorofimakgato](https://www.linkedin.com/in/nkorofimakgato)
