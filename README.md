@@ -7,7 +7,7 @@
 
   Portfolio
 
-[nkorofi-portfolio.vercel.app](https://YOUR-PORTFOLIO-URL.vercel.app)** — my personal site
+[nkorofi-portfolio.vercel.app](https://vercel.com/nkorofimakgato-blip)** — my personal site
 
  Featured Projects
 
