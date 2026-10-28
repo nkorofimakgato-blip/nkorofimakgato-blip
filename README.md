@@ -10,6 +10,10 @@
 [nkorofi-portfolio.vercel.app](https://vercel.com/nkorofimakgato-blip)** — my personal site
 
  Featured Projects
+ {Lastcheck app}
+ Building a personal-safety tool for emergencies such as assault, kidnapping, and phone snatching. Voice-keyword activation can
+trigger alerts, while suspected snatching can prompt a photo for cloud storage. Bluetooth evidence sharing is planned for situations
+without mobile data
 
 [Clothing Store](https://github.com/nkorofimakgato-blip/clothing-store)** — React + TypeScript e-commerce storefront
 - [Live Demo](https://clothing-store-xi-gray.vercel.app)
